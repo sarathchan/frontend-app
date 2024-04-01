@@ -1,0 +1,7 @@
+.sortable-main{
+    /* max-width: 200px;
+    height: 200px; */
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
